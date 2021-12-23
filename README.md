@@ -4,7 +4,7 @@ Indecision is an app that let the computer guide you choose one for your added o
 
 
 
-### Description
+### Tech stack
 
 - HTML
 - Sass

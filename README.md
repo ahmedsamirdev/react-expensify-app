@@ -10,6 +10,9 @@ Indecision is an app that let the computer guide you choose one for your added o
 - Sass
 - JavaScript
 - React
+- Redux
+- Firebase
+
 
 
 

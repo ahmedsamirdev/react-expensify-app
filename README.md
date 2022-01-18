@@ -1,6 +1,6 @@
-# Indecision App
+# Expensify App
 
-Indecision is an app that let the computer guide you choose one for your added options (todos).
+Get your expenses under control.
 
 
 
